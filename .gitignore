@@ -2,3 +2,5 @@
 .x/
 
 *.pkg
+mosquitto.log
+mosquitto.db
